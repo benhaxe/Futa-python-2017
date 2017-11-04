@@ -1,6 +1,6 @@
 # The formula is summation of n/n+1
 
-numList = 4
+numList = 100
 
 sum = 0
 n = 0.0
