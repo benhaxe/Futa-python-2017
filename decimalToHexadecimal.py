@@ -24,5 +24,6 @@ def ChangeToHex(n):
             print ("The number is greater than hexadecimal")
 
 #   Main body
+#   user_input is the argument that is passed into the function
 user_input = input("please input an integer: ")
 ChangeToHex(user_input)

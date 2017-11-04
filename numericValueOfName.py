@@ -11,3 +11,7 @@ for i in to_name_list:
     numericOfVar1 += alphabet.index(i)
 print "Your name is: ", var1
 print "Numeric Value is: ", numericOfVar1
+
+#   Explanation
+#   at line 8 the alphabet is stored in a list and the first index is a space
+#   so when there is space it only adds zero
